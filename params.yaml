@@ -1,0 +1,7 @@
+base:
+  project: Tumor Classification project
+  random_state: 34
+  target_col: classification
+
+data_source:
+  s3_source: data_given/ctumorf.csv
